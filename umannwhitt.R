@@ -27,7 +27,7 @@ independent, you can apply the Mann-Whitney U test.
 This test is for. study differences between the central tendency of
 two populations where the two samples come from" 
 
-install.packages("tigerstats")
+#install.packages("tigerstats")
 library(tigerstats)
 
 #First it is necessary to join the input vectors, 

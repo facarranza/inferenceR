@@ -27,7 +27,7 @@ to study the central tendency of the populations origin of the samples."
 #install.packages("tigerstats")
 library(tigerstats)
 
-#Paired data, for example two treatmnents
+#Paired data, for example two treatments
 A=c(5,4,3,5,2,4,2,2,4,4,3,1,5,3,1)
 B=c(2,2,0,3,3,2,3,1,1,3,4,2,2,4,0)
 order = seq(1:length(A))
