@@ -2,8 +2,8 @@
 ***************************************************************************
 twilcoxon.R
 ---------------------
-Date                 : December 2015
-Copyright            : (C) 2015 by Felipe Carranza
+Date                 : December 2019
+Copyright            : (C) 2019 by Felipe Carranza
 Email                : fcarranza@protonmail.com
 ***************************************************************************
 *                                                                         *

@@ -2,8 +2,8 @@
 ***************************************************************************
 umannwhitt.R
 ---------------------
-Date                 : December 2015
-Copyright            : (C) 2015 by Felipe Carranza
+Date                 : December 2019
+Copyright            : (C) 2019 by Felipe Carranza
 Email                : fcarranza@protonmail.com
 ***************************************************************************
 *                                                                         *
@@ -37,7 +37,7 @@ ni=c(86 , 69 , 72 , 65 , 113 , 65 , 118 , 45 , 141 , 104 , 40, 50,55 , 40 , 22 ,
 grp= c(1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2)
 #confidence level
 p=0.95  #95%
-#Crete a dataframe
+#Create a dataframe
 
 M=data.frame(ni,grp)
 #Order asc
